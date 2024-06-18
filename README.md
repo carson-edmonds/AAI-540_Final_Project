@@ -7,6 +7,7 @@ The steps for this analysis are as follows:
 - Feature engineering
 - Model training and evaluation
 - Model deployment and monitoring
+- CI/CD pipeline implementation
 
 
 References:
