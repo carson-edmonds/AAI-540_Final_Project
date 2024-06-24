@@ -9,8 +9,7 @@ The steps for this analysis are as follows:
 - Model deployment and monitoring
 - CI/CD pipeline implementation
 
+To run the analysis, run notebooks in numerical order. 
 
 References:
 Facebook (2015). Facebook Recruiting IV: Human or Robot? [Data set]. Kaggle. https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot/overview 
-
-
